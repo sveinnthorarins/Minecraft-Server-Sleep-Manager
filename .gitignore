@@ -338,3 +338,17 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+
+# Minecraft Server files for testing project
+logs
+world
+banned-ips.json
+banned-players.json
+eula.txt
+ops.json
+server.jar
+server.properties
+start.bat
+usercache.json
+whitelist.json
