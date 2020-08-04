@@ -31,3 +31,11 @@ Now, for the application to work it needs a few things:
 
 2. RCON needs to be enabled on your server. Do this by changing your server.properties file. Set enable-rcon to true and choose a password for the rcon.password property. The app uses RCON to pass on the command to stop the server.
 
+## Q: Who are you and how can I contact you?
+
+My name is Sveinn and I'm studying Software Engineering at the University of Iceland.
+
+If you have problems with the application you can create an issue on GitHub.
+
+If you want to contact me for other reasons you can add me on Discord: Senz#5171
+
