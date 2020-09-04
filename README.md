@@ -1,6 +1,6 @@
-# Minecraft Server Management
+# Minecraft Server Sleep Manager
 
-This is a Windows console-application designed to manage a Minecraft server.
+This is a Windows console-application designed to manage a Minecraft server, essentially enabling it to be on-demand.
 
 It starts the server when someone tries to connect to it and shuts down the server when nobody is playing on it.
 
