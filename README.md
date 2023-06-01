@@ -33,9 +33,7 @@ Now, for the application to work it needs a few things:
 
 ## Q: Who are you and how can I contact you?
 
-My name is Sveinn and I'm studying Software Engineering at the University of Iceland.
+My name is Sveinn and I'm a Software Engineer (B.Sc.).
 
 If you have problems with the application you can create an issue on GitHub.
-
-If you want to contact me for other reasons you can add me on Discord: Senz#5171
 
